@@ -6,6 +6,7 @@ datePublished: 2026-04-21T16:32:12.472Z
 cuid: cmo8udgvp00al1qocd1j77se7
 slug: git-merge-vs-git-rebase-what-s-the-difference-and-when-to-use-which
 cover: https://cdn.hashnode.com/uploads/covers/69b5b16d1f4d4527ed9008ad/58e97624-4b34-4c74-bdb1-016cca697790.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/69b5b16d1f4d4527ed9008ad/0d8b8785-ab6a-415d-b978-80a94eb96ace.png
 tags: github, programming, version-control, git, devops, backend-development
 
 ---
